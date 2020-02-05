@@ -4,4 +4,7 @@ A mobile clone of Imgur made with C# Xamarin. User can link their real Imgur pro
 Login page :
 
 ![LoginPage](/DEV_epicture_2019/Resources/drawable/login.png)
-Format: ![Alt text](url)
+
+Favorite page :
+
+![FavoritePage](/DEV_epicture_2019/Resources/drawable/favorite.png)
